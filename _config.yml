@@ -1,11 +1,11 @@
 # Site settings
 author: Marianne Pyon
-title: 
+title: Life/Coding Journey
 header-img: img/home-bg.png
 email: mariannepyon@gmail.com
 copyright_name: Marianne Pyon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The beginning of my coding and life journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mariannepyon
